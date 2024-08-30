@@ -1,0 +1,29 @@
+1. Documentation
+
+Design Choices:
+
+Layout: Clean and intuitive, with key metrics ("Total Vehicles" and "Average Electric Range") prominently displayed at the top.
+Visuals:
+Pie Charts: Show PHEV and BEV proportions.
+Treemap: Highlights popular vehicle models by volume.
+Line Chart: Displays trends in vehicle models.
+Map: Shows geographical distribution by state.
+Interactivity: Filters for "City," "Electric Utility," and "Electric Vehicle Type" allow detailed data exploration.
+Usage Instructions:
+
+Filters:
+City, Electric Utility, Vehicle Type: Drill down into specific data subsets.
+Interacting with Visuals:
+Hover: See detailed tooltips.
+Map: Zoom for state-wise data.2. Review and Feedback
+
+Review Process:
+
+Testing: Verified accuracy with various data inputs and filter combinations.
+User Feedback: Gathered insights on usability and visual appeal.
+Refinements:
+
+Performance: Simplified visuals for faster loading.
+Interactivity: Enhanced map features for better data exploration.
+Clarity: Improved color contrast and label clarity.
+Layout: Adjusted to fit all visuals on one screen without scrolling.
